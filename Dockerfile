@@ -1,4 +1,4 @@
-FROM acdcjunior/docker-ubuntu-chromedriver
+FROM acdcjunior/ubuntu-chromedriver
 
 MAINTAINER Antonio "acdc" Jr. <acdcjunior@gmail.com>
 
